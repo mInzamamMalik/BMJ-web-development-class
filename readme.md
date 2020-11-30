@@ -2,7 +2,9 @@ This class covers react web development from scratch, whatever code I write in c
 pdf version of this article is also available on root of this repository
 
 classes are scheduled every Monday, Wednesday and Friday onsite in BMJ DIGITAL EDUCATION institute karachi.
+from 23 Nov and onwards
 
 Instructor: 
 M.Inzamam Malik
 malikasinger@gmail.com
+facebook.com/mInzamamMalik
