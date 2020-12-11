@@ -1,6 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
+let abc = 4545;
+
 const Hi = ({ img, flag, name, date, time }) =>  (
     <div>
       <span>{(flag) ? "it is true" : "it is false"}</span> <br />
